@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
+* {
+    font-family: "poppins";
+}
+
+ul {
+    margin-left: 120px;
+}
+
+ul li {
+    display: inline;
+    padding-right: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #8057D9;
+    font-weight: 700;
+}
+
+span {
+    color: #8057D9;
+}
+
+button {
+    padding: 10px;
+    border-radius: 25px;
+}
+
+main {
+    margin-top: 80px;
+    margin-left: 160px;
+}
+
+div {
+    width: 30%;
+    float: left;
+    margin-right: 50px;
+    margin-top: 90px;
+}
+
+p {
+    margin-top: 50px;
+}
